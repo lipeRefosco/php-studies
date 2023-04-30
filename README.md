@@ -5,4 +5,4 @@ In this repository I will put some studies and concepts using PHP, like Coroutin
 ## Studies I have been taken
 
 - [Coroutine](https://github.com/lipeRefosco/coroutine-in-php)
-- [Coroutine](https://github.com/lipeRefosco/php-studies/tree/main/eventloop)
+- [Event Loop](https://github.com/lipeRefosco/php-studies/tree/main/eventloop)
