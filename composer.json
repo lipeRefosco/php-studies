@@ -1,0 +1,15 @@
+{
+    "name": "lipe/php",
+    "autoload": {
+        "psr-4": {
+            "Lipe\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lipe Refosco",
+            "email": "luisfelipe.refosco@hotmail.com"
+        }
+    ],
+    "require": {}
+}
