@@ -1,6 +1,6 @@
 <?php
 
-namespace lipe\Php;
+namespace Lipe\Php;
 
 use Generator;
 use Lipe\Php\States;

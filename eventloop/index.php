@@ -42,9 +42,9 @@ function generatorB () {
     echo "(B) esperando generator generatorA" . PHP_EOL;
     yield;
 
-    $returnGenA = yield from generatorA(); // espera o geradorA terminar
+    yield generatorA(); // espera o geradorA terminar
 
-    echo $returnGenA . PHP_EOL;
+    // echo $returnGenA . PHP_EOL;
     yield;
 
     echo "(B) depois de esperar a generator: id generatorA" . PHP_EOL;
